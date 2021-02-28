@@ -1,0 +1,7 @@
+
+jphp:S101	"VRename class "providerController" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œÌ®¯
+l	php:S1192"WDefine a constant instead of duplicating this literal "Connection: keep-alive" 3 times.(çÔ¡
+¢	php:S1192"ŒDefine a constant instead of duplicating this literal "sec-ch-ua: "Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"" 3 times.(ÿœÊĞ
+j	php:S1192"UDefine a constant instead of duplicating this literal "sec-ch-ua-mobile: ?0" 3 times.(šĞ¼
+o	php:S1192"UDefine a constant instead of duplicating this literal "Sec-Fetch-Mode: cors" 3 times.(µîåÁùÿÿÿÿ
+k	php:S1192"VDefine a constant instead of duplicating this literal "Sec-Fetch-Dest: empty" 3 times.(¶ğù¼
